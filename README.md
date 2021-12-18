@@ -161,6 +161,7 @@
 * [The Exception Handler](https://www.youtube.com/channel/UCgRrjz7mHwqTQqm6KC4mSBQ)
 * [Amine M. Boulouma](https://www.youtube.com/aminemboulouma)
 * [codewithsadee](https://www.youtube.com/c/codewithsadee)
+* [Sonny Sangha](https://www.youtube.com/SonnySangha)
 
 ### Informational
 > These channels focus on information about software development and career advice.
